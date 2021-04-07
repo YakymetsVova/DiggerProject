@@ -1,3 +1,3 @@
 # DiggerGame
-Realisation of task of the digger game via C# from ulearn course
+Realisation of the digger game via C#
 (FILE DiggeTask.cs)
